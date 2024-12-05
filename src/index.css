@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Gotham-Medium';
+    src: url('./assets/fonts/Gotham-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+/* SEGUNDO MAS FUERTE */
+.textGothamMedium {
+    font-family: "Gotham Medium";
+}
