@@ -12,7 +12,7 @@ export const SocialLinks = () => {
         <FaInstagram className="w-6 h-6" />
       </a>
       <a
-        href="https://www.linkedin.com/in/alex-becci-gatica-82551a22b/"
+        href="https://www.linkedin.com/in/alex-becci-82551a22b/"
         className="text-white hover:text-red-200 transition-colors duration-300"
         target="_blank"
         rel="noopener noreferrer"

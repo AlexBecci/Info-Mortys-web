@@ -15,7 +15,7 @@ function Footer() {
             <p className="text-sm mb-2 sm:mb-0 sm:mr-4">
               © 2023 Info Mortys —
               <a
-                href="https://www.instagram.com/becci.ale/"
+                href="https://github.com/AlexBecci/Info-Mortys-web/"
                 rel="noopener noreferrer"
                 className="ml-1 hover:text-red-200 transition-colors duration-300"
                 target="_blank"
@@ -23,7 +23,7 @@ function Footer() {
                 @Becci.ale
               </a>
             </p>
-            <SocialLinks/>
+            <SocialLinks />
           </div>
         </div>
       </div>
